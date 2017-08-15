@@ -1,0 +1,9 @@
+{
+  "mongo":    {
+    "uri": "mongodb://localhost:27017/recycling"
+  },
+  "env": {
+    "MONGO_URL": "mongodb://localhost:27017/recycling",
+    "MONGO_OPLOG_URL": "mongodb://localhost:27017/recycling"
+  }
+}

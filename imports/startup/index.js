@@ -5,15 +5,7 @@ import {createContainer} from 'meteor/react-meteor-data';
 import { ServiceConfiguration } from 'meteor/service-configuration';
 
 Meteor.startup(() => {
-  // ServiceConfiguration.configurations.upsert(
-  //   {service: 'google'},
-  //   {
-  //     $set: {
-  //       clientId: '138766123533-85feg87gsjrtf649dg99eh04l3hftqf1.apps.googleusercontent.com',
-  //       secret: 'JBrLYSAkcBRDNwrlxzm_Z2Uz'
-  //     }
-  //   }
-  // );
+
 });
 
 
